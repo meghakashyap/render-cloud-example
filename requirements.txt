@@ -18,4 +18,4 @@ SQLAlchemy==1.4.18
 Werkzeug==2.0.1
 pip>=24.2
 setuptools>=58.0.0
-greenlet==1.1.0
+greenlet==1.0.0
